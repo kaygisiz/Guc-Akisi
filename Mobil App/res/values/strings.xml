@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TelefonKayit</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="db">DB</string>
+    <string name="aeg">Ağır Enerji Grubu</string>
+    <string name="eg">Eğlence Grubu</string>
+    <string name="keag">Küçük Ev Aleti Grubu</string>
+    <string-array name="ev">
+        <item>Buzdolabı</item>
+        <item>Çamaşır</item>
+        
+    </string-array>
+   
+ 
+</resources>
